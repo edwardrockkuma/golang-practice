@@ -1,4 +1,4 @@
-package main
+package di_learn
 
 import (
 	"bytes"
