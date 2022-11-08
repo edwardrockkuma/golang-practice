@@ -1,6 +1,8 @@
 package map_try
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestXxx(t *testing.T) {
 	dictionary := Dictionary{"test": "test value"}

@@ -1,6 +1,8 @@
 package map_try
 
-import "errors"
+import (
+	"errors"
+)
 
 type Dictionary map[string]string
 
